@@ -1,2 +1,2 @@
 # odin-recipes
-Recipes Project
+file:///Users/jaskaransingh/Desktop/repos/odin-recipes/index.html
